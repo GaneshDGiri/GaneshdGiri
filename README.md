@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Ganesh-Giri
 <p align="center">
-  <img src=""D:\Doc.png.jpeg"" width="160" height="160" style="border-radius: 50%;" alt="Ganesh Giri" />
+  <img src="Doc.png.jpeg" width="160" height="160" style="border-radius: 50%;" alt="Ganesh Giri" />
 </p>
 
 <h1 align="center">Hi, I'm Ganesh Giri 👋</h1>
