@@ -24,7 +24,7 @@ Currently working on **AI-based garment & virtual try-on platforms**.
 - 💻 Full-Stack Developer (MERN)
 - ⚛️ Strong in **React.js, Redux Toolkit, Hooks**
 - 🧩 Backend with **Node.js, Express, FastAPI**
-- 🗄️ Databases: **MongoDB, PostgreSQL**
+- 🗄️ Databases: **MongoDB, PostgreSQL, SQL**
 - 🤖 Exploring **AI features** like virtual try-on, pose detection & image processing
 - 🎯 Preparing for **React.js Developer Interviews**
 - 🌱 Always learning & improving
