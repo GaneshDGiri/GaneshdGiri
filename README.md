@@ -87,9 +87,9 @@ Currently working on **AI-based garment & virtual try-on platforms**.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your link)*
-- 📧 Email: *(Add your email)*
-- 🌐 Portfolio: *(Optional)*
+- 💼 LinkedIn: *www.linkedin.com/in/ganeshgiri1*
+- 📧 Email: *giriganesh016@gmail.com*
+- 🌐 Portfolio: *https://next-portfololio-ganeshportfolio90.vercel.app/*
 
 ---
 
