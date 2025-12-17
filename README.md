@@ -14,7 +14,7 @@
 
 🚀 **MERN Stack Developer | React.js Enthusiast | AI-Powered Web Apps Builder**
 
-I’m a passionate full-stack developer focused on building scalable, modern, and intelligent web applications using **React, Node.js, MongoDB, PostgreSQL, and AI integrations**.  
+I’m a passionate full-stack developer focused on building scalable, modern, and intelligent web applications using **React, Node.js, MongoDB, PostgreSQL,SQL and AI integrations**.  
 Currently working on **AI-based garment & virtual try-on platforms**.
 
 ---
