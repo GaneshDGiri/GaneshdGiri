@@ -49,6 +49,7 @@ Currently working on **AI-based garment & virtual try-on platforms**.
 ### Database
 - MongoDB
 - PostgreSQL
+- SQL
 
 ### AI / Tools
 - MediaPipe
